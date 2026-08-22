@@ -1,6 +1,6 @@
 ---
 name: keep-it-precise
-description: Distill source content to the smallest core that must stay unchanged, when the result must stay recognizable and precise. Use when you need both brevity and a distinct signature, and later edits must not corrupt key details like numbers, negations, or unique terms.
+description: Distill source content to the smallest core that must stay unchanged, when the result must stay recognizable and precise. Use when you need both brevity and a distinct signature, and later edits must not corrupt key details like numbers, negations, or unique terms — 当你要简短又不能丢数字/否定词/专有名词时。
 ---
 
 # Keep It Precise

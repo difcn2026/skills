@@ -1,6 +1,6 @@
 ---
 name: rank-what-to-keep
-description: Rank mutually-exclusive options without scoring them — by carrying each defeated option into its winner, so the final choice makes every sacrifice worth it. Use when you must keep only one of several candidates but cannot score them.
+description: Rank mutually-exclusive options without scoring them — by carrying each defeated option into its winner, so the final choice makes every sacrifice worth it. Use when you must keep only one of several candidates but cannot score them — 当多个候选只能留一个但打不了分时。
 ---
 
 # Rank What to Keep

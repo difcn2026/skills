@@ -1,6 +1,6 @@
 ---
 name: know-what-evidence-allows
-description: Decide what a piece of evidence lets you say and do — before you over-claim. Use when the user hands you a correlation and wants to predict, explain, intervene, or attribute cause.
+description: Decide what a piece of evidence lets you say and do — before you over-claim. Use when the user hands you a correlation and wants to predict, explain, intervene, or attribute cause — 当你拿一个相关性想做预测/解释/干预/归因、怕过度宣称时。
 ---
 
 # Know What Evidence Allows

@@ -1,6 +1,6 @@
 ---
 name: test-my-assumption
-description: Test a user's core assumption against external evidence instead of lecturing. Use when the user can state a clear boundary and their key assumption is falsifiable ("if X, then Y will happen"). The user decides what to test; you gather the evidence.
+description: Test a user's core assumption against external evidence instead of lecturing. Use when the user can state a clear boundary and their key assumption is falsifiable ("if X, then Y will happen"). The user decides what to test; you gather the evidence — 当你说「如果 X，就会 Y」、有个可证伪的假设想用外部证据验证时。
 ---
 
 # Test My Assumption

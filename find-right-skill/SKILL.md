@@ -1,6 +1,6 @@
 ---
 name: find-right-skill
-description: 'Find the right skill when the user asks "is there a skill for X" or "how do I do X" and X is ambiguous or unfamiliar. Search and question in one motion: each found skill becomes a question, each answer reshapes the search, until the user decides to accept, adapt, or create.'
+description: 'Find the right skill when the user asks "is there a skill for X" or "how do I do X" and X is ambiguous or unfamiliar. Search and question in one motion: each found skill becomes a question, each answer reshapes the search, until the user decides to accept, adapt, or create — 或问「有没有做 X 的技能」「怎么做 X」，且 X 含糊、没把握时。'
 ---
 
 # Find Right Skill

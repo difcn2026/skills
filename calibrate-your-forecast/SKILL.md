@@ -1,6 +1,6 @@
 ---
 name: calibrate-your-forecast
-description: Know how accurate your judgments really are — not by waiting for a long track record, not by trusting your gut. Use when you give a confident prediction and want to make your own blind spot visible after the result lands.
+description: Know how accurate your judgments really are — not by waiting for a long track record, not by trusting your gut. Use when you give a confident prediction and want to make your own blind spot visible after the result lands — 当你说「我 80% 确定」、结果落地后想检验自己到底准不准、或总在没料到的地方翻车时。
 ---
 
 # Calibrate Your Forecast

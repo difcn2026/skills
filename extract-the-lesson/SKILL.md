@@ -1,6 +1,6 @@
 ---
 name: extract-the-lesson
-description: Turn a hard-won lesson into something that will actually resurface later. Use when a post-incident review or retrospective produced conclusions that everyone already forgot by the next project.
+description: Turn a hard-won lesson into something that will actually resurface later. Use when a post-incident review or retrospective produced conclusions that everyone already forgot by the next project — 当复盘结论写了又忘、同一个错反复犯、说不清「下次什么时候该想起它」时。
 ---
 
 # Extract the Lesson

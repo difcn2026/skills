@@ -1,6 +1,6 @@
 ---
 name: decide-whether
-description: Decide whether to do something when the user is genuinely torn. Turn an unresolved yes-or-no decision into one reusable one-line rule. Use when the user says "should I do this", "I don't know whether to", or is stuck between two choices.
+description: Decide whether to do something when the user is genuinely torn. Turn an unresolved yes-or-no decision into one reusable one-line rule. Use when the user says "should I do this", "I don't know whether to", or is stuck between two choices — 或说「要不要做」「该不该做」「拿不准」时。
 ---
 
 # Decide Whether

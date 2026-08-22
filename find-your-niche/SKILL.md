@@ -1,6 +1,6 @@
 ---
 name: find-your-niche
-description: Locate the user's real position between what they need and what the ecosystem offers. Use when the user has their own criteria but feels the mainstream options are "somehow off". Name the niche, check whether it is covered, and decide whether to adopt, adapt, or build.
+description: Locate the user's real position between what they need and what the ecosystem offers. Use when the user has their own criteria but feels the mainstream options are "somehow off". Name the niche, check whether it is covered, and decide whether to adopt, adapt, or build — 当你觉得市面上的选项「总觉得哪里不对」、想定位自己该站的位置时。
 ---
 
 # Find Your Niche

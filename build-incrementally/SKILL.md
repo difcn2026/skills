@@ -1,6 +1,6 @@
 ---
 name: build-incrementally
-description: Build a multi-step artifact step by step when acceptance criteria can't be written up front. Use when the user wants something correct and reliable but can't say exactly what the final shape is, so test-first and throwaway-first don't fit. Verify each step immediately before the next.
+description: Build a multi-step artifact step by step when acceptance criteria can't be written up front. Use when the user wants something correct and reliable but can't say exactly what the final shape is, so test-first and throwaway-first don't fit. Verify each step immediately before the next — 当你说「说不清最终长什么样但要正确」时：边做边验，每步立即验证。
 ---
 
 # Build Incrementally

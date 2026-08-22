@@ -1,6 +1,6 @@
 ---
 name: name-the-concept
-description: Turn an "I understand it but can't say it" into a name you can actually reuse. Use when you keep saying "there's this thing…", "sort of…", "I can't quite put it into words" — and the idea stays unusable because it has no handle.
+description: Turn an "I understand it but can't say it" into a name you can actually reuse. Use when you keep saying "there's this thing…", "sort of…", "I can't quite put it into words" — and the idea stays unusable because it has no handle — 当你总说「有这么个东西…」「说不上来」、想给反复描述却用不起来的理解装个名字时。
 ---
 
 # Name the Concept

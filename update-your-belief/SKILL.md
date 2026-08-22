@@ -1,6 +1,6 @@
 ---
 name: update-your-belief
-description: Measure how much you should have updated your belief versus how much you actually did, and close the gap step by step. Use when strong new evidence arrives but a belief barely moves.
+description: Measure how much you should have updated your belief versus how much you actually did, and close the gap step by step. Use when strong new evidence arrives but a belief barely moves — 当强证据来了但信念没怎么动、想知道该更新多少时。
 ---
 
 # Update Your Belief

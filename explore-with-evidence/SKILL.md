@@ -1,6 +1,6 @@
 ---
 name: explore-with-evidence
-description: Explore an unclear build direction one small step at a time, capturing evidence after each step to decide the next. Use when you need correctness but can't write tests up front, and the answer matters too much to throw away. Evidence, not guesswork, picks the next step.
+description: Explore an unclear build direction one small step at a time, capturing evidence after each step to decide the next. Use when you need correctness but can't write tests up front, and the answer matters too much to throw away. Evidence, not guesswork, picks the next step — 当你需要深读/理解/排查一个机制、方向不明且答案太重要不能随便试时。
 ---
 
 # Explore With Evidence

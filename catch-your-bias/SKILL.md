@@ -1,6 +1,6 @@
 ---
 name: catch-your-bias
-description: Develop your reasoning like film — reveal bias contamination as a located band with a concrete counter-move, instead of listing bias names. Use when you suspect your current reasoning is tilted but can't pinpoint it.
+description: Develop your reasoning like film — reveal bias contamination as a located band with a concrete counter-move, instead of listing bias names. Use when you suspect your current reasoning is tilted but can't pinpoint it — 当你怀疑自己在「找理由支持自己的结论」、觉得推理歪了但说不上来时。
 ---
 
 # Catch Your Bias

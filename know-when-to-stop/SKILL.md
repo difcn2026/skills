@@ -1,6 +1,6 @@
 ---
 name: know-when-to-stop
-description: Decide whether to keep going by distilling what you've already invested into sunk versus transferable parts. Use when you hear "we've come too far to stop" or "stopping means admitting failure".
+description: Decide whether to keep going by distilling what you've already invested into sunk versus transferable parts. Use when you hear "we've come too far to stop" or "stopping means admitting failure" — 当你说「都走到这了」「停就是认输」、想把已投入拆成沉没与可转化时。
 ---
 
 # Know When to Stop

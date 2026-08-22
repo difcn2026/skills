@@ -1,6 +1,6 @@
 ---
 name: compress-to-budget
-description: Compress content to fit a strict budget (token count, one screen, a size limit) while staying recognizable. Use when you must cut to a specific limit AND keep the result distinct from competitors. Distill to the semantic core without losing the signature.
+description: Compress content to fit a strict budget (token count, one screen, a size limit) while staying recognizable. Use when you must cut to a specific limit AND keep the result distinct from competitors. Distill to the semantic core without losing the signature — 当你有硬性篇幅限制（字数/一屏/尺寸）又要保持辨识度、删减怕丢关键时。
 ---
 
 # Compress To Budget

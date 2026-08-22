@@ -1,6 +1,6 @@
 ---
 name: pick-the-right-baseline
-description: Re-select the right reference class before judging an individual case, so vivid detail stops distorting the base rate. Use when a specific case feels typical yet is statistically rare, or when intuition and the base rate pull against each other.
+description: Re-select the right reference class before judging an individual case, so vivid detail stops distorting the base rate. Use when a specific case feels typical yet is statistically rare, or when intuition and the base rate pull against each other — 当个案「看着典型但统计罕见」、印象与基础率打架时。
 ---
 
 # Pick the Right Baseline

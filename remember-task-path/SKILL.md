@@ -1,6 +1,6 @@
 ---
 name: remember-task-path
-description: Remember the path a task took and replay it for similar future tasks to save tokens. Use when the same type of task repeats and each repetition should cost less than the first. Compress a run into an entry anchor plus decision markers, and re-verify each step while replaying.
+description: Remember the path a task took and replay it for similar future tasks to save tokens. Use when the same type of task repeats and each repetition should cost less than the first. Compress a run into an entry anchor plus decision markers, and re-verify each step while replaying — 当同类任务反复出现想省 token、说「又要做这个，上次的路子」时。
 ---
 
 # Remember Task Path
@@ -116,3 +116,9 @@ Sort weight (soft signal, only for priority among same-anchor paths):
 
 **Input**: task entry anchor, execution trace, first direct-run baseline, quality state (walked-through / diverged).
 **Output**: `path_ledger.jsonl` (path triples + measured savings history + quality state), recall decision `recall`/`no_recall`, path health report.
+
+## Persistence
+
+- Path ledger writes to a `path_ledger.jsonl` file in the active agent's skill workspace.
+- Create the directory if absent; append-only, never rewrite the file.
+- Do not write raw keys / tokens / user data — only location anchors + decision type (see Safety boundaries).

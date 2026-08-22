@@ -1,6 +1,6 @@
 ---
 name: sense-the-loop
-description: Know where a chain of consequences stops — the point where cause folds back onto itself. Use when "what happens next?" keeps unfolding and you need to know how far to think.
+description: Know where a chain of consequences stops — the point where cause folds back onto itself. Use when "what happens next?" keeps unfolding and you need to know how far to think — 当「接下来会怎样」越推越多、想知道后果链该想到哪层停时。
 ---
 
 # Sense the Loop

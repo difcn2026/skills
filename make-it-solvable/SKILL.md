@@ -1,6 +1,6 @@
 ---
 name: make-it-solvable
-description: Turn a vague request into a solvable unit — a boundary and a solution that take shape together. Use when the user says "help me improve X" and you're unsure whether to think it through first or just start solving.
+description: Turn a vague request into a solvable unit — a boundary and a solution that take shape together. Use when the user says "help me improve X" and you're unsure whether to think it through first or just start solving — 当你说「帮我改进 X」但说不清该先想清楚还是直接做时。
 ---
 
 # Make It Solvable

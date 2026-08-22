@@ -1,6 +1,6 @@
 ---
 name: find-the-real-cause
-description: Find which step actually changed the outcome by contrasting the real outcome with near-miss alternatives. Use when a retrospective insists "it was inevitable" or "if only…", and you need to locate the true leverage point.
+description: Find which step actually changed the outcome by contrasting the real outcome with near-miss alternatives. Use when a retrospective insists "it was inevitable" or "if only…", and you need to locate the true leverage point — 当复盘时有人说「早就注定」或「假如当初…」时。
 ---
 
 # Find the Real Cause

@@ -1,6 +1,6 @@
 ---
 name: negotiate-the-constraints
-description: Resolve a conflict between goals and hard constraints by negotiating at the constraint layer, not by watering down the solution. Use when you face "I want A and B but…" with hard limits.
+description: Resolve a conflict between goals and hard constraints by negotiating at the constraint layer, not by watering down the solution. Use when you face "I want A and B but…" with hard limits — 当你既要 A 又要 B 但有硬限制、不想把解打折时。
 ---
 
 # Negotiate the Constraints
